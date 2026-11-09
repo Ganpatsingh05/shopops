@@ -3,8 +3,8 @@ uvicorn[standard]
 sqlalchemy
 psycopg[binary]
 pydantic-settings
+python-dotenv
 alembic
 pytest
 httpx
 ruff
-
